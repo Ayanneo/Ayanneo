@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Ayan Namdeo
 
-🌱 I’m currently learning Machine Learning and AI
-🤝 Open to collaborate
-⚡ Hobbies: In My free time I like watching Anime and read comics
-📫 How to reach me ayannamdeodesk@gmail.com
+-🌱 I’m currently learning Machine Learning and AI
+-🤝 Open to collaborate
+-⚡ Hobbies: In My free time I like watching Anime and read comics
+-📫 How to reach me ayannamdeodesk@gmail.com
 <!--
 **Ayanneo/Ayanneo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
